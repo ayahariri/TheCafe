@@ -1,10 +1,15 @@
+nav li{
+    text-align: center;
+  display: inline;
+    color: white;
+}
+
+nav ul{
+    background-color: black;
+    }
+
 h1 {
     color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-nav {
-background-color: black;
-text-align: center;
-display: inline;
-}
