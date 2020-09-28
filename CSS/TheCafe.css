@@ -50,5 +50,12 @@ p{
     margin-top: 0px;
 }
 #secondimage{
-    width: 50px;
+    width: 50%;
+    margin-left: 560px;
+    margin-top: -450px;
+}
+
+article {
+    font-size: 35px;
+    margin-left: 520px;
 }
